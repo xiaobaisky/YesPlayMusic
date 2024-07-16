@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-api-gamma-smoky-81.vercel.app//:match*"
+    }
+  ]
+}
